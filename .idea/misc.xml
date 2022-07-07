@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/drawable/ic_add.xml" value="0.2265" />
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/layout/activity_add_update_dish_activity.xml" value="0.25416666666666665" />
         <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/layout/activity_splash.xml" value="0.25416666666666665" />
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/layout/fragment_all_dishes.xml" value="0.25416666666666665" />
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/menu/all_dishes_menu.xml" value="0.11197916666666667" />
+        <entry key="..\:/App_Dev/Android_Studio/Favourite_Dish/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11302083333333333" />
       </map>
     </option>
   </component>
